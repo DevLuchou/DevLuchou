@@ -4,8 +4,8 @@
 ## I'm 17 years old
 ## I am a Developer specialized at Java
 ## I can talk a bunch of different languages like English, Spanish, Portuguese, French, and Italian
-## I am active because i have a lot of free time
-## I'm currently learning, but i have basic knowledge
+## I have a lot of free time, so most likely I'll be there if needed
+## I'm currently studying, but i have basic knowledge
 
 # Where to reach me?
 ## You can contact me with my e-mail: 
