@@ -1,14 +1,14 @@
-## Welcome to my Profile! 👋
+# Welcome to my Profile! 👋
 
-## About me?
-# I'm 17 years old
-# I am a Developer specialized at Java
-# I can talk different languages, like English, Spanish, Portuguese, French, and Italian
-# I am active because i have a lot of free time
-# I'm currently learning, but i have basic knowledge
+# About me?
+## I'm 17 years old
+## I am a Developer specialized at Java
+## I can talk different languages, like English, Spanish, Portuguese, French, and Italian
+## I am active because i have a lot of free time
+## I'm currently learning, but i have basic knowledge
 
-## Where to reach me?
-# You can contact me with my e-mail: 
+# Where to reach me?
+## You can contact me with my e-mail: 
 <!--
 **DevLuchou/DevLuchou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
